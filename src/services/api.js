@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const api = axios.create({
      baseURL:
-     'https://sih26154-backend-2.onrender.com/api',
+     'http://localhost:5000/api',
      withCredentials: true,
 });
 
