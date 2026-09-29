@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="100%" height="100%">
+  <!-- Optional dark background for visibility -->
+  <rect width="1000" height="1000" fill="#111111" />
+
+  <g fill="#FFFFFF">
+    <!-- Upper / Right Sparkle -->
+    <path d="M 458 24 Q 475 292 928 442 Q 570 632 570 632 Q 350 280 458 24 Z" />
+    
+    <!-- Lower / Left Sparkle -->
+    <path d="M 68 560 Q 412 374 412 374 Q 500 650 636 724 Q 518 984 518 984 Q 280 630 68 560 Z" />
+  </g>
+</svg>
